@@ -1,4 +1,6 @@
-Java Script
+Linha do Tempo - Java Script
+
+Integrantes: Igor Daniel, Matheus Cavalcante, Matheus Castro
 
 
 
